@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  2_1.cpp
+2_1.cpp(83): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+2_1.cpp(85): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+2_1.cpp(118): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+2_1.cpp(120): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+2_1.cpp(140): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+2_1.cpp(142): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+2_1.cpp(170): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+2_1.cpp(196): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+2_1.cpp(198): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+2_1.cpp(238): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Code wird generiert.
+  364 of 392 functions (92.9%) were compiled, the rest were copied from previous compilation.
+    265 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  2_1.vcxproj -> C:\Projects\fs-swf-cpp2\1_1\Release\2_1.exe
