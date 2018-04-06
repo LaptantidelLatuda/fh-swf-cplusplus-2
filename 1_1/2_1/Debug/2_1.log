@@ -1,12 +1,1 @@
-﻿  2_1.cpp
-c:\projects\fs-swf-cpp2\1_1\2_1\2_1.cpp(88): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
-c:\projects\fs-swf-cpp2\1_1\2_1\2_1.cpp(90): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
-c:\projects\fs-swf-cpp2\1_1\2_1\2_1.cpp(123): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
-c:\projects\fs-swf-cpp2\1_1\2_1\2_1.cpp(125): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
-c:\projects\fs-swf-cpp2\1_1\2_1\2_1.cpp(143): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
-c:\projects\fs-swf-cpp2\1_1\2_1\2_1.cpp(145): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
-c:\projects\fs-swf-cpp2\1_1\2_1\2_1.cpp(173): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
-c:\projects\fs-swf-cpp2\1_1\2_1\2_1.cpp(199): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
-c:\projects\fs-swf-cpp2\1_1\2_1\2_1.cpp(201): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
-c:\projects\fs-swf-cpp2\1_1\2_1\2_1.cpp(241): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
-  2_1.vcxproj -> C:\Projects\fs-swf-cpp2\1_1\Debug\2_1.exe
+﻿  2_1.vcxproj -> C:\Projects\fh-swf-cplusplus-2\1_1\Debug\2_1.exe
